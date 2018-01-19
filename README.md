@@ -1,2 +1,2 @@
 # eclipse-xml-hypertext-plugin
-package retrieval in xml
+package and file realtime retrieval in xml
